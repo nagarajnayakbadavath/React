@@ -10,5 +10,8 @@
     "react"
   ],
   "author": "nagaraju",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
 }
